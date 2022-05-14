@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="fire" unicode="&#xe800;" d="M7 238q10 41 50 131t44 146q39-72 45-145 148 184 154 428 10-6 25-17t58-45 74-74 61-96 34-118q15 36 19 79t-9 80q15-12 41-39t56-75 56-99 31-118-9-127-72-127-152-120q64 129 25 278t-154 229q10-43-11-141t-65-150q7 63 4 102t-12 59l-10 17q-12-70-60-140-26-38-39-69t-9-80 30-105q-135 76-181 154t-24 182z" horiz-adv-x="748" />
+
+<glyph glyph-name="user" unicode="&#xe801;" d="M714 69q0-60-35-104t-84-44h-476q-49 0-84 44t-35 104q0 48 5 90t17 85 33 73 52 50 76 19q73-72 174-72t175 72q42 0 75-19t52-50 33-73 18-85 4-90z m-143 495q0-88-62-151t-152-63-151 63-63 151 63 152 151 63 152-63 62-152z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="fire-station" unicode="&#xe817;" d="M425 775l-175-250-100 150c-33-58-150-200-150-350 0-221 204-400 425-400 221 0 425 179 425 400 0 150-117 292-150 350l-100-150z m0-400s175-134 175-250c0-50-75-100-175-100s-175 50-175 100c0 112 175 250 175 250z" horiz-adv-x="850" />
+
+<glyph glyph-name="hospital" unicode="&#xe821;" d="M300 725c-28 0-50-22-50-50l0-200-200 0c-28 0-50-22-50-50l0-150c0-28 22-50 50-50l200 0 0-200c0-28 22-50 50-50l150 0c28 0 50 22 50 50l0 200 200 0c28 0 50 22 50 50l0 150c0 28-22 50-50 50l-200 0 0 200c0 28-22 50-50 50z" horiz-adv-x="750" />
+
+<glyph glyph-name="facebook-squared" unicode="&#xf308;" d="M696 779q67 0 114-48t47-113v-536q0-66-47-113t-114-48h-104v333h111l16 129h-127v83q0 31 13 46t51 16l68 1v115q-35 5-100 5-75 0-121-44t-45-127v-95h-112v-129h112v-333h-297q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>
